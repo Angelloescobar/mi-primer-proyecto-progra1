@@ -1,3 +1,4 @@
 # mi-primer-proyecto-progra1 
 Este es un proyecto de practica para aprender Git y Github de programacion 1, 
 Angello Escobar
+Estoy aprendiendo a usar Git, una herramienta de control de versiones que me permite gestionar mis proyectos de manera eficiente. He entendido como funciona la estructura de repositorios, tanto locales como remotos, y como puedo rastrear cambios en mi codigo. Aprendi a inicializar un repositorio con git init, clonar uno existente con git clone y hacer seguimiento de archivos con git add y git commit. Tambien comprendi la diferencia entre git push para enviar cambios a un repositorio remoto y git pull para traer actualizaciones.
