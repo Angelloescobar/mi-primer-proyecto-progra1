@@ -1,0 +1,25 @@
+¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+He aprendido que Git es una herramienta de control de versiones que me permite llevar un seguimiento de los cambios en mis proyectos de manera eficiente. Me ayuda a colaborar con otros de forma más organizada, ya que puedo trabajar en diferentes ramas y luego fusionar mis cambios sin perder el trabajo de los demás. Por otro lado, GitHub es una plataforma que me permite alojar mis repositorios de Git en la nube, facilitando el acceso y la colaboración con otros desarrolladores. He descubierto que puedo utilizar funciones como "pull requests" para revisar y discutir cambios antes de integrarlos al proyecto principal, lo que mejora la calidad del código.
+
+
+¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste
+algún conflicto? ¿Cómo lo resolviste?
+
+Trabaje de Manera Individual.
+
+
+
+
+¿Qué ventajas crees que tiene usar Git en proyectos de
+programación? 
+Usar Git en proyectos de programación tiene varias ventajas que realmente pueden facilitar el trabajo en equipo como por ejemplo, 
+ 
+1.Control de versiones: Git permite llevar un registro de todos los cambios realizados en el código, lo que facilita volver a versiones anteriores si es necesario.
+
+2. Colaboración: Es ideal para trabajar en equipo, ya que múltiples desarrolladores pueden trabajar en el mismo proyecto simultáneamente sin pisarse los cambios. Git maneja las fusiones de código de manera eficiente.
+
+3. Ramas: Puedes crear ramas para desarrollar nuevas características o corregir errores sin afectar la versión principal del proyecto. Esto permite experimentar sin miedo a romper algo.
+
+4. Historial de cambios: Puedes ver quién hizo qué y cuándo, lo que es útil para entender la evolución del proyecto y para la revisión de código.
+
+5. Integración continua: Git se integra fácilmente con herramientas de CI/CD, lo que ayuda a automatizar pruebas y despliegues, mejorando la calidad del software.
